@@ -1,0 +1,53 @@
+body {
+	background-image:url(https://americansforprosperityfoundation.org/wp-content/uploads/2016/04/bigstock-interior-of-rural-house-13508723.jpg);
+}
+marquee{
+    position:absolute;
+    top:450;
+    right:0;
+}
+.hacked{
+    position:absolute;
+    top:250;
+    left:250;
+    width:300px;
+    height:80px;
+    border-style:inset;
+    border-color:brown;
+    border-width:4px;
+}
+.sp{
+    top:50;
+}
+h2{
+    color:red;
+    text-align:center;
+    border-style:inset;
+    border-color:red;
+    border-width:4px;
+}
+.kot{
+    position:absolute;
+    top:450;
+    right:20;
+    left:20;
+}
+.name2{
+    position:absolute;
+    left:300px;
+}
+.name4{
+    position:absolute;
+    left:300px;
+    top:500px;
+}
+.name6{
+    position:absolute;
+    left:300px;
+    top:300px;
+}
+.str{
+    position:absolute;
+    top:10px;
+    left:206px;
+}
